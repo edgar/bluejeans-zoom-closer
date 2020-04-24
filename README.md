@@ -1,8 +1,6 @@
 # Bluejeans and Zoom Tab Closer
 
-A Chrome extension that automatically closes the launched window for Bluejeans and Zoom meetings.
-
-Based in the [zoom-close](https://github.com/seanstar12/zoom-close) extension.
+A [Chrome extension](https://chrome.google.com/webstore/detail/bluejeanszoom-closer/jnpjcapbahjpooibdheccijcjalacdno) that automatically closes the launched window for Bluejeans and Zoom meetings.
 
 ## Install from Chrome Web Store
 
@@ -20,3 +18,7 @@ Got to the [Chrome Web Store](https://chrome.google.com/webstore/detail/bluejean
 * Open Chrome Extension Manager: `chrome://extensions/`
 * Click developer mode switch (on top right corner of the screen) to on
 * You will see `Load unpacked` on the toolbar if you succeeded
+
+---
+
+Based in the [zoom-close](https://github.com/seanstar12/zoom-close) extension.
