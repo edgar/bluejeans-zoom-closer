@@ -22,7 +22,12 @@
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
         "https://*.zoom.us/s/*",
-        "https://bluejeans.com/*"
+        "https://bluejeans.com/*",
+        "https://*.bluejeans.com/*"
+      ],
+      "exclude_matches": [
+        "https://www.bluejeans.com/*",
+        "https://slack-api.bluejeans.com/*"
       ],
       "js": [
         "content.js"
