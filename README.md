@@ -1,8 +1,8 @@
-# Bluejeans and Zoom Tab Closer
+# Redirect Tab Closer
 
-A [Chrome extension](https://chrome.google.com/webstore/detail/bluejeanszoom-closer/jnpjcapbahjpooibdheccijcjalacdno) that automatically closes the launched window for Bluejeans and Zoom meetings.
+A [Chrome extension](https://chrome.google.com/webstore/detail/bluejeanszoom-closer/jnpjcapbahjpooibdheccijcjalacdno) that automatically closes the launched window for various redirect browser tabs opened by apps like Zoom, Bluejeans and Slack.
 
-## Install from Chrome Web Store
+## Install  the upstream version from Chrome Web Store
 
 Got to the [Chrome Web Store](https://chrome.google.com/webstore/detail/bluejeanszoom-closer/jnpjcapbahjpooibdheccijcjalacdno) and click `Add to Chrome`
 
@@ -21,4 +21,4 @@ Got to the [Chrome Web Store](https://chrome.google.com/webstore/detail/bluejean
 
 ---
 
-Based in the [zoom-close](https://github.com/seanstar12/zoom-close) extension.
+Based on the [bluejeans-zoom-closer](https://github.com/edgar/bluejeans-zoom-closer) extension, which was in turn based on [zoom-close](https://github.com/seanstar12/zoom-close) extension.
