@@ -22,7 +22,8 @@
         "https://*.zoom.us/j/*",
         "https://zoom.us/s/*",
         "https://*.zoom.us/s/*",
-        "https://bluejeans.com/*"
+        "https://bluejeans.com/*",
+        "https://*.slack.com/archives/*"
       ],
       "js": [
         "content.js"
