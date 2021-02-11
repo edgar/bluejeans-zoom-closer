@@ -9,7 +9,7 @@ Got to the [Chrome Web Store](https://chrome.google.com/webstore/detail/bluejean
 ## How to install from source
 
 * Turn on developer mode first if you haven't (Check instruction below if you don't know how to)
-* Download the latest version from https://github.com/edgar/bluejeans-zoom-closer/releases, and unzip it
+* Download the latest version from https://github.com/ethirolle/redirect-tab-closer/releases, and unzip it
 * Open Chrome Extension Manager: `chrome://extensions/`
 * Click `Load unpacked`, and select the unzipped folder
 
